@@ -1,0 +1,7 @@
+ html { height: 80% }
+    body { padding: 0px;
+           margin: 0px;
+           overflow: hidden;
+           height: 90%;
+           background: linear-gradient(#000, #820, #000); }
+	h3 { color: yellow; }
